@@ -903,6 +903,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
+    libaudioparsers \
     libqmiservices \
     libsdm-disp-vndapis \
     libthermalclient \
