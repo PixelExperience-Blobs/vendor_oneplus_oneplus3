@@ -43,10 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/mbn_ota/mcfg_sw_NoCDMA/mcfg_sw_Vodafone-Commercial.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/mbn_ota/mcfg_sw_NoCDMA/mcfg_sw_Vodafone-Commercial.mbn \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/mbn_ota/mcfg_sw_NoCDMA/mcfg_sw_YTL-Commercial.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/mbn_ota/mcfg_sw_NoCDMA/mcfg_sw_YTL-Commercial.mbn \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/tfa98xx.cnt \
-    vendor/oneplus/oneplus3/proprietary/etc/firmware/tp/fw_synaptics_15801.img:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/tp/fw_synaptics_15801.img \
-    vendor/oneplus/oneplus3/proprietary/etc/firmware/tp/fw_synaptics_15801b.img:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/tp/fw_synaptics_15801b.img \
-    vendor/oneplus/oneplus3/proprietary/etc/firmware/tp/fw_synaptics_15811.img:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/tp/fw_synaptics_15811.img \
-    vendor/oneplus/oneplus3/proprietary/etc/firmware/tp/fw_synaptics_touchkey.img:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/tp/fw_synaptics_touchkey.img \
     vendor/oneplus/oneplus3/proprietary/etc/init/wfdservice.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/wfdservice.rc \
     vendor/oneplus/oneplus3/proprietary/etc/permissions/embms.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/embms.xml \
     vendor/oneplus/oneplus3/proprietary/etc/permissions/lpa.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/lpa.xml \
